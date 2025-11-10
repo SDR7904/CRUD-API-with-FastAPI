@@ -18,7 +18,7 @@ It demonstrates how to perform basic **CRUD operations** in FastAPI.
 ## 📦 Project Structure
 
 ```
-expense_api/
+./
 │
 ├── main.py          # Main FastAPI application
 └── README.md        # Project documentation
@@ -43,7 +43,7 @@ Each expense has the following fields:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/expense-api.git
+git clone https://github.com/SDR7904/CRUD-API-with-FastAPI.git
 cd expense-api
 ```
 
